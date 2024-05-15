@@ -11,3 +11,8 @@
 
 
 #### Proyecto con fines educativos
+
+### INTEGRANTES SALA 02
+- Araujo Abad Eduardo Jose
+- Portilla Guamán Bryant David
+- Gloria Stefania Panchana Jaramillo
